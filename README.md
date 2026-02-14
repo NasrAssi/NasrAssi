@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 💻 3nd year CS student
+- 💻 3rd year CS student
 - 🧑‍🏫 Academic **Data Structures Mentor**
 - ☁️ Currently exploring **Distributed Systems** & **Cloud Computing**
 - ⚡ Passionate about **Systems Programming**, **OOP**, and **Big Data**
