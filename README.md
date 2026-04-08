@@ -31,6 +31,7 @@
 | **Reconstruction Simulation** | C++ | Simulation platform with OOP design, Rule of 5, Valgrind-verified memory management |
 | **GurionSLAM** | Java | Multi-threaded SLAM-based robot perception system with camera & LiDAR integration |
 | **Emergency Messaging Platform** | Java, C++ | Real-time STOMP-based notification system with Thread-Per-Client & Reactor architectures |
+| **BGU Mart Inventory System** | Python, SQLite |  Backend inventory system with a custom ORM/DAO layer, SQL transactions with rollback, and automated reporting |
 | **Distributed Text Analysis** | Java, AWS | Scalable NLP system using Manager-Worker architecture on EC2, S3, SQS |
 | **Collocation Extraction Engine** | Java, Hadoop, AWS EMR | Big data NLP pipeline processing billions of Google N-Gram records |
 | **DIRT: Inference Rule Discovery** | Java, Hadoop, AWS EMR | 6-step MapReduce pipeline on Google Syntactic N-Grams using Secondary Sort joins, MI scoring |
