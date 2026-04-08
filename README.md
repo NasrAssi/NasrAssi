@@ -17,7 +17,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` `C++` `C` `Python` `TypeScript` `SQL` `x86 Assembly`
+`Java` `C++` `C` `Python` `TypeScript` `JavaScript` `SQL` `x86 Assembly`
 
 **Technologies & Tools:**  
 `Git` `Linux` `Docker` `AWS (EC2, S3, SQS, EMR)` `Hadoop MapReduce` `Multi-threading` `TCP/UDP`
@@ -29,10 +29,11 @@
 | Project | Tech | Description |
 |---------|------|-------------|
 | **Reconstruction Simulation** | C++ | Simulation platform with OOP design, Rule of 5, Valgrind-verified memory management |
-| **GurionRock Mapping System** | Java | Multi-threaded SLAM-based robot perception system with camera & LiDAR integration |
+| **GurionSLAM** | Java | Multi-threaded SLAM-based robot perception system with camera & LiDAR integration |
 | **Emergency Messaging Platform** | Java, C++ | Real-time STOMP-based notification system with Thread-Per-Client & Reactor architectures |
 | **Distributed Text Analysis** | Java, AWS | Scalable NLP system using Manager-Worker architecture on EC2, S3, SQS |
 | **Collocation Extraction Engine** | Java, Hadoop, AWS EMR | Big data NLP pipeline processing billions of Google N-Gram records |
+| **DIRT: Inference Rule Discovery** | Java, Hadoop, AWS EMR | 6-step MapReduce pipeline on Google Syntactic N-Grams using Secondary Sort joins, MI scoring |
 
 ---
 
