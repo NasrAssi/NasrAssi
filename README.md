@@ -35,6 +35,7 @@
 | **Distributed Text Analysis** | Java, AWS | Scalable NLP system using Manager-Worker architecture on EC2, S3, SQS |
 | **Collocation Extraction Engine** | Java, Hadoop, AWS EMR | Big data NLP pipeline processing billions of Google N-Gram records |
 | **DIRT: Inference Rule Discovery** | Java, Hadoop, AWS EMR | 6-step MapReduce pipeline on Google Syntactic N-Grams using Secondary Sort joins, MI scoring |
+| xv6 OS Enhancements | C, RISC-V | Extended the xv6 operating system kernel by implementing user-level coroutines, custom concurrency locks, and a virtio GPU driver |
 
 ---
 
