@@ -10,7 +10,7 @@
 - 💻 3rd year CS student
 - 🧑‍🏫 Academic **Data Structures Mentor**
 - 🔭 Open to **Software Engineering internships & new-grad roles**
-- ☁️ Currently exploring **Distributed Systems** & **Cloud Computing**
+- 🛠️ Hands-on experience across **Operating Systems**, **Full-Stack Development**, **Distributed Systems** & **Cloud Computing**
 - ⚡ Passionate about **Systems Programming**, **OOP**, and **Big Data**
 
 ---
