@@ -38,6 +38,7 @@
 | [**Distributed Text Analysis**](https://github.com/NasrAssi/Distributed-Text-Analysis-System) | Java, AWS | Scalable NLP system using a Manager-Worker architecture on EC2, S3, SQS |
 | [**Collocation Extraction Engine**](https://github.com/NasrAssi/Collocation-Extraction-Engine) | Java, Hadoop, AWS EMR | Big-data NLP pipeline processing billions of Google N-Gram records |
 | [**DIRT: Inference Rule Discovery**](https://github.com/NasrAssi/DIRT-MapReduce) | Java, Hadoop, AWS EMR | 6-step MapReduce pipeline on Google Syntactic N-Grams using Secondary-Sort joins & MI scoring |
+| [**Secure Notes Web App**](https://github.com/NasrAssi/FullStack) | React, TypeScript, Express, MongoDB | Full-stack notes app with a React Context + `useReducer` state engine and an MVC Express/Mongoose REST API, plus an XSS security lab featuring a custom HTML sanitizer, keylogger demo & attacker server |
 
 ---
 
