@@ -18,10 +18,22 @@
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Java` `C++` `C` `Python` `TypeScript` `JavaScript` `SQL` `x86 Assembly`
+`Java` `C++` `C` `Python` `TypeScript` `JavaScript` `SQL` `Assembly (x86 & RISC-V)`
 
-**Technologies & Tools:**  
-`Git` `Linux` `Docker` `AWS (EC2, S3, SQS, EMR)` `Hadoop MapReduce` `Multi-threading` `TCP/UDP`
+**Web & Full-Stack:**  
+`React` `Node.js` `Express` `Mongoose` `REST APIs` `Vite` `HTML` `CSS`
+
+**Databases:**  
+`MongoDB` `SQLite`
+
+**Cloud & DevOps:**  
+`AWS (EC2, S3, SQS, EMR)` `Docker` `Git` `Linux`
+
+**Big Data & Distributed Systems:**  
+`Hadoop MapReduce` `Multi-threading` `TCP/UDP` `STOMP`
+
+**Testing & Tools:**  
+`Playwright` `Jest` `Valgrind`
 
 ---
 
