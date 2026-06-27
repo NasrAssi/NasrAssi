@@ -20,17 +20,17 @@
 **Languages:**  
 `Java` `C++` `C` `Python` `TypeScript` `JavaScript` `SQL` `Assembly (x86 & RISC-V)`
 
-**Web & Full-Stack:**  
-`React` `Node.js` `Express` `Mongoose` `REST APIs` `Vite` `HTML` `CSS`
-
-**Databases:**  
-`MongoDB` `SQLite`
-
 **Cloud & DevOps:**  
 `AWS (EC2, S3, SQS, EMR)` `Docker` `Git` `Linux`
 
 **Big Data & Distributed Systems:**  
 `Hadoop MapReduce` `Multi-threading` `TCP/UDP` `STOMP`
+
+**Web & Full-Stack:**  
+`React` `Node.js` `Express` `Mongoose` `REST APIs` `Vite` `HTML` `CSS`
+
+**Databases:**  
+`MongoDB` `SQLite`
 
 **Testing & Tools:**  
 `Playwright` `Jest` `Valgrind`
